@@ -1,0 +1,10 @@
+<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="22.004939000000004">
+<testsuite name="tests.spec.ts" timestamp="2024-09-22T16:33:18.625Z" hostname="chromium" tests="3" failures="0" skipped="0" time="19.584" errors="0">
+<testcase name="Verify accessibility without navigation issues" classname="tests.spec.ts" time="6.774">
+</testcase>
+<testcase name="Verify the price order (high-low) displayed on the “All Items” page" classname="tests.spec.ts" time="6.306">
+</testcase>
+<testcase name="Add multiple items to the cart and validate the checkout journey" classname="tests.spec.ts" time="6.504">
+</testcase>
+</testsuite>
+</testsuites>
